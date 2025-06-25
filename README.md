@@ -3,7 +3,7 @@
 
 ## App_Pruebas
 
-Repositorio del proyecto final de Programación Móvil:
+Repositorio del proyecto final de Ingeniería de Pruebas:
 [Fercho1105/App_Pruebas](https://github.com/Fercho1105/App_Pruebas/tree/main)
 
 
@@ -39,7 +39,7 @@ Ofrecer una plataforma colaborativa donde los usuarios puedan planificar sus via
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/tu_usuario/tripmates.git
+git clone https://github.com/Fercho1105/App_Pruebas.git
 ```
 
 2. Abre el proyecto en Android Studio.
